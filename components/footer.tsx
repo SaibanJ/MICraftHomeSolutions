@@ -8,7 +8,7 @@ export function Footer() {
           <div className="flex flex-col gap-4">
             <div className="flex items-center gap-2">
               <Hammer className="h-5 w-5 text-primary" />
-              <span className="font-sans text-lg font-bold text-foreground">Michigan Handyman</span>
+              <span className="font-sans text-lg font-bold text-foreground">MICraftHomeSolutions</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               {'Your trusted partner for all home repairs, maintenance, and improvements in Michigan.'}
