@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+/node_modules
+/.pnpm
+/pnpm-lock.yaml
+
+# Next.js build outputs
+/.next/
+/out/
+
+# Production and local environment variables
+.env*.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Test results
+/coverage
+
+# IDE directories
+/.idea/
+.vscode/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
