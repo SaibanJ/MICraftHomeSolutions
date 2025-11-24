@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
 import { Inter, Roboto } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 const inter = Inter({ 
@@ -19,7 +18,6 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: 'Michigan Handyman Services | Expert Home Repairs & Improvements',
   description: 'Trusted handyman services in Michigan. Fast, reliable, and affordable home repairs, maintenance, and improvements. Free estimates. Appliance installation, painting, drywall, flooring, and more.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
@@ -48,7 +46,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.variable} ${roboto.variable} font-mono antialiased`}>
         {children}
-        <Analytics />
       </body>
     </html>
   )
