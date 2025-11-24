@@ -22,7 +22,7 @@ export function CallToAction() {
                   <Phone className="h-5 w-5" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-sm font-medium text-foreground">(555) 123-4567</span>
+                  <span className="text-sm font-medium text-foreground">(517) 862-5050</span>
                   <span className="text-xs text-muted-foreground">Call or text anytime</span>
                 </div>
               </div>
@@ -59,7 +59,7 @@ export function CallToAction() {
                   <label htmlFor="phone" className="text-sm font-medium text-foreground">
                     Phone
                   </label>
-                  <Input id="phone" type="tel" placeholder="(555) 123-4567" className="bg-background" />
+                  <Input id="phone" type="tel" placeholder="(517) 862-5050" className="bg-background" />
                 </div>
                 <div className="flex flex-col gap-2">
                   <label htmlFor="email" className="text-sm font-medium text-foreground">
