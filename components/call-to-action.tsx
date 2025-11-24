@@ -31,7 +31,7 @@ export function CallToAction() {
                   <Mail className="h-5 w-5" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-sm font-medium text-foreground">contact@michiganhandyman.com</span>
+                  <span className="text-sm font-medium text-foreground">Alex@micrafthomesolutions.com</span>
                   <span className="text-xs text-muted-foreground">Email us your project details</span>
                 </div>
               </div>

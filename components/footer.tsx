@@ -36,14 +36,14 @@ export function Footer() {
             <h3 className="font-sans text-sm font-semibold text-foreground">Contact</h3>
             <ul className="flex flex-col gap-2 text-sm text-muted-foreground">
               <li>(555) 123-4567</li>
-              <li>contact@michiganhandyman.com</li>
+              <li>Alex@micrafthomesolutions.com</li>
               <li>{'Serving Michigan & surrounding areas'}</li>
             </ul>
           </div>
         </div>
         <div className="mt-8 border-t border-border pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            {'© 2025 Michigan Handyman. All rights reserved.'}
+            {'© 2025 MICraftHomeSolutions. All rights reserved.'}
           </p>
           <div className="flex gap-4 text-sm text-muted-foreground">
             <a href="#" className="hover:text-foreground transition-colors">Privacy Policy</a>

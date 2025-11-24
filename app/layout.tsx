@@ -16,7 +16,7 @@ const roboto = Roboto({
 })
 
 export const metadata: Metadata = {
-  title: 'Michigan Handyman Services | Expert Home Repairs & Improvements',
+  title: 'MICraftHomeSolutions | Expert Home Repairs & Improvements',
   description: 'Trusted handyman services in Michigan. Fast, reliable, and affordable home repairs, maintenance, and improvements. Free estimates. Appliance installation, painting, drywall, flooring, and more.',
   icons: {
     icon: [
